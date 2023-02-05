@@ -11,4 +11,6 @@ $a -ne 5                                                  # Operador distinto qu
 $a -gt 2                                                  # Operador mayor que
 $a -lt 3                                                  # Operador menor que
 
-$FirstName = 
+$FirstName = "Adriana"
+$FirstName -like "A"                                      # Operador para comparar strings
+
